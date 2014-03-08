@@ -104,6 +104,7 @@ the way Wikipedia describes: https://meta.wikimedia.org/wiki/List_of_Wikipedias
 * Spanish                 es
 * Telugu                  te
 * Turkish                 tr
+* Bulgarian               bg
 
 
 
